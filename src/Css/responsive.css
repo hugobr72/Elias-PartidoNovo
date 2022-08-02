@@ -1,8 +1,6 @@
 @media (max-width:900px) {
     .hero {
         max-width: 100%;
-        background: url(../image/Elias-main2.jpeg) center center no-repeat;
-        background-size: cover;
         font-size: 21px;
     }
 
@@ -34,7 +32,7 @@
     .hero {
         margin-top: 0px;
         max-width: 100%;
-        background-image: url(/src/image/Elias-main2.jpeg) center center no-repeat;
+        background: url(../image/Elias-main2.jpeg) center center no-repeat;
         background-size: cover;
         font-size: 21px;
     }
@@ -99,8 +97,4 @@
         width: 172px;
     }
 
-    .hero {
-        background: url(/src/image/Elias2.jpeg)center center no-repeat;
-        background-size: cover;
-    }
 }
