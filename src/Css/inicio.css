@@ -68,7 +68,7 @@ nav ul li a:hover {
     flex-direction: column;
     justify-content: center;
     width: 100%;
-    background: url(/src/image/Elias-main1.jpeg) center center no-repeat;
+    background: url(../image/Elias-main1.jpeg) center center no-repeat;
     background-size: cover;
     height: 87vh;
 }
