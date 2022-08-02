@@ -97,6 +97,7 @@
     }
 
     .hero {
-        background-color: aqua;
+        background: url(/src/image/Elias2.jpeg)center center no-repeat;
+        background-size: cover;
     }
 }
