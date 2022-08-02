@@ -18,6 +18,9 @@
     .hero {
         margin-top: 0px;
         max-width: 720px;
+        max-width: 100%;
+        background: url(/src/image/Elias2.jpeg) center center no-repeat;
+        background-size: cover;
     }
 
     .texto-imagem {
