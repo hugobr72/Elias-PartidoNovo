@@ -1,0 +1,58 @@
+footer{
+    background-color: #FF700E;
+    text-align: center;
+    color: white;
+}
+
+footer img{
+    width: 250px;
+    margin-top: 35px;
+    padding-bottom: 70px;
+}
+
+.footer-info{
+    padding-top: 70px;
+}
+
+.footer-info h2{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.footer-info p{
+    margin: 7px;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.rede-social{
+    font-size: 25px;
+    margin: 23px;
+    margin-bottom: -8px;
+}
+
+.rede-social a{
+    color: white;
+}
+
+.rede-social a:hover{
+    color: #192a4c;
+}
+
+@media (max-width:430px){
+    .footer-info h2{
+        font-size: 20px;
+    }
+
+    .footer-info p{
+        font-size: 15px;
+    }
+
+    .rede-social{
+        font-size: 20px;
+    }
+
+    footer img{
+        width: 220px;
+    }
+}
