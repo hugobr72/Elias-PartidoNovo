@@ -63,7 +63,6 @@ nav ul li a:hover {
 .hero{
     font-size: 35px;
     color: white;
-    position: relative;
     padding-top: 60px;
     display: flex;
     flex-direction: column;
