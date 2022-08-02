@@ -8,6 +8,8 @@
         width: 223px;
         margin-left: 48px;
         font-size: 30px;
+        background: url(../image/Elias-main2.jpeg) center center no-repeat;
+        background-size: cover;
     }
 
     #nepomuceno {
@@ -32,8 +34,6 @@
     .hero {
         margin-top: 0px;
         max-width: 100%;
-        background: url(../image/Elias-main2.jpeg) center center no-repeat;
-        background-size: cover;
         font-size: 21px;
     }
 
