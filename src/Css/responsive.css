@@ -3,6 +3,22 @@
         max-width: 100%;
         background: url(/src/image/Elias2.jpeg) center center no-repeat;
         background-size: cover;
+        font-size: 21px;
+    }
+
+    .hero h2 {
+        width: 223px;
+        margin-left: 48px;
+        font-size: 30px;
+    }
+
+    #nepomuceno {
+        margin-left: 48px;
+        text-decoration: none;
+        font-style: normal;
+        background-color: #FF700E;
+        width: 218px;
+        font-size: 30px;
     }
 
 }
@@ -17,36 +33,32 @@
 
     .hero {
         margin-top: 0px;
-        max-width: 720px;
         max-width: 100%;
-        background-image : url(/src/image/Elias2.jpeg) center center no-repeat;
+        background-image: url(/src/image/Elias2.jpeg) center center no-repeat;
         background-size: cover;
+        font-size: 21px;
     }
 
-    .texto-imagem {
-        font-size: 25px;
-        padding-top: 130px;
-    }
 
-    .texto-imagem h3 {
-        margin-top: 45px;
-        width: 202px;
+    .hero h3 {
+        margin-top: 2px;
         margin-left: 48px;
     }
 
-    .texto-imagem h2 {
-        width: 285px;
-        margin-left: 48px;
+    .hero h2 {
+        width: 225px;
+        font-size: 30px;
+        margin-left: 0px;
     }
 
-    .texto-imagem h4 {
+    .hero h4 {
         width: 300px;
         margin-left: 48px;
-        margin-top: -20px;
+        font-size: 21px;
     }
 
     #nepomuceno {
-        padding-top: 13px;
+        margin-left: 0px;
         font-size: 30px;
     }
 
@@ -61,39 +73,30 @@
         margin-left: 34px;
     }
 
-    .texto-imagem {
+    .hero {
         font-size: 20px;
+        display: block;
     }
 
-    .texto-imagem h3 {
-        margin-top: 40px;
-        width: 160px;
-        margin-left: 26px;
+    .hero h3 {
+        margin-left: 10px;
     }
 
-    .texto-imagem h2 {
-        width: 183px;
-        margin-left: 34px;
+    .hero h2 {
+        width: 179px;
         font-size: 24px;
-        margin-top: 0;
-        margin-left: 0;
+        margin-top: 60px;
     }
 
-    .texto-imagem h4 {
-        width: 300px;
-        margin-top: -20px;
-        margin-left: 20px;
+    .hero h4 {
+        margin-left: 10px;
     }
 
     #nepomuceno {
         font-size: 24px;
-        padding-top: 0px;
-        margin-left: 2px;
+        margin-left: 0px;
         background-color: #FF700E;
-        text-decoration: none;
-        margin-top: -24px;
         width: 172px;
-        font-style: normal;
     }
 
     .hero {
