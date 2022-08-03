@@ -139,6 +139,30 @@
     .cards img {
         width: 150px;
     }
+
+    .quem-sou h2 {
+        padding-top: 20px;
+        font-size: 16px;
+    }
+
+    .quem-sou img {
+        width: 150px;
+        align-items: center;
+    }
+
+    #ola {
+        font-size: 28px;
+        padding-top: 10px;
+    }
+
+    #primeiro-paragrafo {
+        font-size: 12px;
+    }
+
+    .quem-sou p {
+        font-size: 10px;
+    }
+
 }
 
 @media (max-width:290px) {
@@ -147,7 +171,7 @@
     }
 
     .cards img {
-        width: 180px;
+        width: 104px;
     }
 
     .cards {
@@ -161,5 +185,20 @@
 
     .header h1 a {
         font-size: 16px;
+    }
+
+    .grupo h2 {
+        font-size: 10px;
+    }
+
+    #whatsApp {
+        font-size: 10px;
+    }
+
+    .button-grupo {
+        font-size: 10px;
+        width: 125px;
+        height: 32px;
+        padding-bottom: 7px;
     }
 }
