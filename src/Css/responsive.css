@@ -62,7 +62,7 @@
 
     .quem-sou {
         display: block;
-        height: 232vh;
+        height: 89vh;
     }
 
     .quem-sou img {
@@ -158,8 +158,11 @@
     }
 
     #primeiro-paragrafo {
-        margin-top: -10px;
         font-size: 12px;
+    }
+
+    #embaixo-foto{
+        width: -10px;
     }
 
     .quem-sou p {
