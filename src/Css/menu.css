@@ -111,3 +111,9 @@
     }
 
 }
+
+@media (max-width:468px){
+    .header nav{
+        top: -5px;
+    }
+}
