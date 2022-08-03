@@ -53,6 +53,24 @@ footer img{
     }
 
     footer img{
-        width: 220px;
+        width: 182px;
+    }
+}
+
+@media (max-width:200px){
+    footer img{
+        width: 150px;
+    }
+
+    .footer-info h2 {
+        font-size: 11px;
+    }
+
+    .footer-info p {
+        font-size: 10px;
+    }
+
+    .rede-social {
+        font-size: 15px;
     }
 }

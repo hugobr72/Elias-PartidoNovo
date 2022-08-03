@@ -242,6 +242,7 @@ main h2 {
 }
 
 .grupo{
+    width: 100%;
     background: url(../image/Fundo-wpp.jpg) center center no-repeat;
     background-size: cover;
     height: 60vh;
