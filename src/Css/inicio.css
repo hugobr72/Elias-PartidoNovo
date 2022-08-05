@@ -130,10 +130,14 @@ main h2 {
 
 .cards img {
     width: 300px;
+    border-radius: 10px;
 }
 
 .cards img:hover {
     opacity: 0.9;
+    -moz-transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
 }
 
 .card {
@@ -162,6 +166,9 @@ main h2 {
 
 .fotos img:hover {
     opacity: 0.9;
+    -moz-transform: scale(1.04);
+    -webkit-transform: scale(1.04);
+    transform: scale(1.04);
 }
 
 @media (max-width:768px) {
