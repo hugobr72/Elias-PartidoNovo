@@ -207,20 +207,16 @@
     }
 
     .hero h2 {
-        width: 106px;
-        font-size: 14px;}
-
-    .hero h3{
-        font-size: 10px;
+        width: 134px;
+        font-size: 18px;
     }
-
-    .hero h4{
-        font-size: 10px;
+    .hero h3, .hero h4{
+        font-size: 15px;
     }
 
     #nepomuceno{
-        width: 102px;
-        font-size: 14px;
+        width: 132px;
+        font-size: 18px;
     }
 
 }
