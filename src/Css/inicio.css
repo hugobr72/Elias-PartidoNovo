@@ -270,7 +270,7 @@ main h2 {
 
 .button-grupo {
     width: 245px;
-    height: 52px;
+    height: 60px;
     background-color: rgb(29, 187, 29);
     border-radius: 25px;
 }
@@ -281,10 +281,16 @@ main h2 {
     font-size: 18px;
     display: flex;
     justify-content: center;
-    padding-top: 13px;
+    padding-top: 17px;
 }
 
 #whatsApp{
     font-size: 30px;
     font-weight: bolder;
+}
+
+.button-grupo:hover{
+    -moz-transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
 }
