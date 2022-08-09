@@ -297,7 +297,7 @@ main h2 {
     transform: scale(1.05);
 }
 
-p::selection{
+p::selection , h1::selection  , h2::selection  , h3::selection  ,h4::selection  , h5::selection , #whatsApp::selection{
     background-color: #192a4c;
     color: white;
 }
